@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "etc_sensor\\PIR_sensor\\app.ino",
+    "port": "COM3",
+    "programmer": "AVRISP mkII"
+}

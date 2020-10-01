@@ -1,0 +1,6 @@
+{
+    "sketch": "led_ex12\\app.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "Arduino as ISP"
+}
